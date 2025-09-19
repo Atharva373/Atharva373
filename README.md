@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharva Chirputkar</h1>
 <h3 align="center">A passionate Engineer & Technology Enthusiast lover from Pune,India</h3>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 - 💬 Ask me about **Java, C++, Spring Boot, MySQL(SQL), OOPS, Postman .**
 
 - 📫 How to reach me **atharvachirputkar333@gmail.com**
